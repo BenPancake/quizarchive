@@ -47,7 +47,7 @@
 @media (prefers-color-scheme: light) {
 	:root {
 		--clr-text: #3c3836;
-        --clr-back: #fbf1c7;
+		--clr-back: #fbf1c7;
 		--clr-a-text: #b16286;
 		--clr-a-back: #f9f5d7;
 		--clr-pre-back: #ebdbb2;
